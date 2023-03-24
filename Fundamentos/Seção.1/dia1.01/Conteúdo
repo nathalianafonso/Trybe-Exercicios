@@ -15,4 +15,4 @@ rm arquivo -> Remove um arquivo.
 rmdir diretorio -> Remove um diretório.
 more /home/user/arquivo.txt -> Para ler o conteúdo de um arquivo de texto.
 grep arquivo.txt -> Procura por trechos de texto dentro de arquivos e diretórios.
-less -> Utilizado para mostrar arquivo pagina por pagina.
+less -> Utilizado para mostrar arquivo pagina por pagina. 
