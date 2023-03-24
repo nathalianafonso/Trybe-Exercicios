@@ -1,0 +1,7 @@
+*O Git funciona como uma linha do tempo na qual você pode criar vários pontos de acesso para as alterações realizadas em um projeto e acessá-las quando necessário.
+Para fazer o versionamento com o Git, existem 3 conceitos principais:
+- Ramificação (branch);
+- Captura de mudanças (commit);
+- Mesclagem (merge).
+A ramificação funciona como os ramos do seu projeto, ou seja, o seu projeto principal fica em uma branch (ramo) que atualmente é chamada de branch main.
+No momento da mesclagem, você precisa atualizar sua branch com a branch main ou atualizar a branch main com suas alterações. 
