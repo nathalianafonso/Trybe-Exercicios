@@ -4,4 +4,6 @@ Para fazer o versionamento com o Git, existem 3 conceitos principais:
 - Captura de mudanças (commit);
 - Mesclagem (merge).
 A ramificação funciona como os ramos do seu projeto, ou seja, o seu projeto principal fica em uma branch (ramo) que atualmente é chamada de branch main.
-No momento da mesclagem, você precisa atualizar sua branch com a branch main ou atualizar a branch main com suas alterações. 
+No momento da mesclagem, você precisa atualizar sua branch com a branch main ou atualizar a branch main com suas alterações.
+- Repositório local: é o repositório do seu computador. Pode ser baixado da internet ou criado por você.
+- Repositório remoto: é o repositório que pode ser acessado via internet, em uma plataforma de hospedagem de código, como o GitHub. 
