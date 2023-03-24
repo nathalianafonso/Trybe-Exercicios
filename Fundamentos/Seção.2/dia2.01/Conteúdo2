@@ -1,0 +1,18 @@
+Lista de comandos importantes: 
+! -> Para abrir a estrutura base do HTML
+lang="pt-br" -> Para definir o idioma
+title -> Para colocar o titulo no sitwe
+h1 -> Para escritas em maior destaque
+img src="trajeto" -> Para inserir imagem. 
+alt -> Para descrição de acessibilidade de fotos
+width="escala em pixel" -> Para definir tamanho da fotos
+br -> Para quebras de texto
+h2 -> Para subtitulos
+em -> italico
+ol li -> Para listas numeradas
+h3 -> Para texto simples
+ul li -> Para listas não numeradas
+strong -> Negrito
+p -> Para linha de texto
+a href="link" -> Para criar atalho para link interno
+a href="link" target="_blank" -> para criar atalho de link externo

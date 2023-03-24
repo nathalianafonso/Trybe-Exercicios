@@ -1,0 +1,5 @@
+O GitHub é uma plataforma de hospedagem de código.
+Para clonar, isto é, baixar um repositório em seu computador, você deve utilizar o comando git clone url-do-repositorio. Esse comando faz com que o repositório, que está remoto, fique acessível localmente e já versionado.
+Para criar ou clonar um repositório no GitHub e deixá-lo acessível no computador, não é necessário utilizar o comando git init.
+- Utilize os comandos git add . e git commit -m "Mensagem";
+- Digite o comando git push -u origin main.
