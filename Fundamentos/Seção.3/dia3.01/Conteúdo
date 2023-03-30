@@ -8,3 +8,4 @@
         && (e);
         || (ou).
 *Estruturas condicionais como if/else e switch/case: estruturas que retornam respostas de acordo como uma condição, por exemplo: “Se o operador for de adição, realize a soma. Senão, realize a subtração”.
+- height -> altura
