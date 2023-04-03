@@ -1,5 +1,19 @@
-let clientesTrybeBank = ['Sandro', 'Roberto', 'Sara'];
+let status = 'deslogado'; 
 
-    function cumprimentaCliente(cliente) {
-        return 'Olá', ' + cliente + '. Essa é sua conta do TrybeBank'
-        }
+function logarDeslogar() { 
+if (status === 'deslogado')
+    status = 'logado';
+} else {
+    status = 'deslogado';
+}
+}
+
+console.log(status); 
+
+logarDeslogar();
+console.log(status);
+
+logarDeslogar();
+console.log(status); 
+
+console.log('O usuário está ' + status + ' no sistema TrybeBank'); 
